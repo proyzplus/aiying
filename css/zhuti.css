@@ -1,0 +1,12 @@
+.weare{width: 690px;height: 945px;/*border: 1px solid red;*/margin: auto;}
+.one_op{width: 210px;height: 295px;/*border: 1px solid red;*/}
+.phone{width: 210px;height: 174px;background-color: #f5f5f5;margin-top: -4px;}
+.phone_one{width: 186px;height: 60px;margin: auto;/*border: 1px solid red;*/font-weight: bold;font-size: 14px;line-height: 50px;}
+.phone_two{width: 186px;height: 60px;/*border: 1px solid red;*/margin: auto;font-size: 12px;line-height: 20px;}
+.phone_put{width: 186px;height: 30px;/*border: 1px solid red;*/margin: auto;text-align: center;}
+.weare ul{display: flex;justify-content: space-between;}
+.poiv{width: 84px;height: 30px;border: 0px;background-color: #f29000;color: #FFFFFF;font-size: 14px;}
+.meiio{width: 84px;height: 30px;border: 0px;background-color: #666666;color: #FFFFFF;font-size: 14px;}
+.nexta{width: 300px;height: 200px;margin: auto;/*border: 1px solid red;*/text-align: center;line-height: 100px;}
+.nexta button{width: 60px;height: 30px;background-color: white;border: 1px solid lightgray;}
+

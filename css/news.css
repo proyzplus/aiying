@@ -1,0 +1,74 @@
+body{background-color: #f9f9f9;}
+#main_first{width: 100%;height: 346px;background-image: url(../img/news/gfdgash_02.png);background-size: 100% 100%;}
+.main_first_top{width: 100%;height: 60px;background-color: #d8d6cf;opacity: 0.8;margin: auto;}
+.top_main{width: 1200px;height: 60px;line-height: 60px;margin: auto;}
+.top_main a{font-size: 14px;color: #038dd8;font-weight: bolder;}
+.top_main ul{display: flex;justify-content: space-around;}
+#main_third{width: 1200px;height: 1212px;margin: auto;/*border: 1px solid royalblue*/;}
+.main{width: 1100px;height: 1160px;/*border: 1px solid red;*/margin: auto;display: flex;justify-content: space-around;}
+.main_left{width: 260px;height: 685px;/*border: 1px solid red;*/margin-left: 90px;}
+.main_right{width: 716px;height: 1155px;border: 1px solid lightgray;background-color: #FFFFFF;border-radius: 0 0 20px 20px;}
+.left_top{width: 260px;height: 65px;background-color: #33a3df;line-height: 50px;font-size: 30px;}
+.left_top ul{display: flex;justify-content: space-around;color: #FFFFFF;}
+.left_top_two{width: 260px;height: 42px;margin-top: 8px;background-color: #33a3df;line-height: 42px;}
+.left_top_two ul{display: flex;justify-content: space-around;color: #FFFFFF;}
+.left_main{width: 260px;height: 165px;/*border: 1px solid red;*/}
+.main_ma{width: 238px;height: 120px;margin: auto;/*border: 1px solid blue;*/}
+.main_word{width: 238px;height: 40px;margin: auto;/*border: 1px solid red;*/line-height: 40px;}
+.main_word ul{display: flex;justify-content: space-around;}
+.left_main_one{width: 260px;height: 327px;border: 1px solid lightgray;border-radius: 0 0 6px 6px;}
+.img_tyop{width: 238px;height: 60px;margin: auto;}
+.left_input{width: 210px;height: 252px;margin: auto;/*border: 1px solid red;*/text-align: center;margin-top: 12px;}
+.left_input input{margin-top: 12px;border: 0px;width: 208px;height: 26px;}
+.www{text-align: left;height: 40px;line-height: 45px;font-size: 12px;color: #797979;}
+.left_botton{ margin: auto;width: 200px;height: 60px;/*border: 1px solid red;*/line-height: 100px;}
+.left_botton a{font-size: 12px;color: #797979;text-decoration: underline;}
+.left_last{width: 260px;height: 26px;/*border: 1px solid red;*/margin-top: 30px;}
+.left_last input{width: 260px;height: 26px;border-radius: 20px 20px 20px 20px;border: 1px solid #008cd7;background-image: url(../img/news/sea_11.png);background-repeat: no-repeat;background-position: right;}
+/*//右边*/
+.top_righat{width: 716px;height: 73px;/*border: 1px solid black;*/}
+.top_righat ul{display: flex;justify-content: space-between;}
+.top_right_left{width: 160px;height: 73px;/*border: 1px solid fuchsia;*/}
+.top_right_right{width: 400px;height: 73px;/*border: 1px solid royalblue;*/}
+.sfs{width: 90px;height: 73px;/*border: 1px solid red;*/}
+.top_right_left ul{display: flex;justify-content: space-around;}
+.sf_one{font-size: 17.72px;color: #149add;line-height: 40px;}
+.sf_two{font-size: 12px;color: #b6b6b6;}
+.top_right_right{font-size: 12px;color: #33a3df;line-height: 73px;}
+.top_right_right span{float: right;}
+.top_sdsf{width: 716px;height: 172px;/*border: 1px solid red;*/margin-top: 20px;}
+.top_sdsf ul{display: flex;justify-content: space-around;}
+.top_sdsf_left{width: 244px;height: 134px;/*border: 1px solid red;*/}
+.top_sdsf_right{width: 426px;height: 134px;/*border: 1px solid red*/;}
+.right_toop{width: 426px;height: 58px;/*border: 1px solid red;*/}
+.toopo_a{font-size: 17.63px;color: #028acf;}
+.toopo_b{font-size: 16px;color: #f98c23;line-height: 40px;}
+.right_sdsf{margin-top: 20px; width: 426px;height: 56px;/*border: 1px solid red;*/font-size: 13px;color: #4a4a4a;line-height: 26px;}
+.input_put{width: 690px;height: 692px;/*border: 1px solid red;*/}
+.put_a{width: 690px;height: 68px;border: 1px solid #cbcbcb;margin-top: 16px;}
+.put_a_left{width: 66px;height: 68px;background-color: #8e8e8e;}
+.put_a_right{width: 623px;height: 68px;text-align: center;line-height: 30px;}
+.tttop{text-align: center;line-height: 30px;}
+.next{width: 300px;height: 200px;margin: auto;/*border: 1px solid red;*/text-align: center;line-height: 200px;}
+.next button{width: 60px;height: 30px;background-color: white;border: 1px solid lightgray;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

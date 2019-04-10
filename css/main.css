@@ -1,0 +1,18 @@
+body{background-color: #f9f9f9;}
+/*主要部分第一步*/
+#main_first{width: 100%;height: 345px;background-image: url(../img/main/main_02.png);background-size: 100% 100%; margin: auto;}
+.main_first_top{width: 100%;height: 60px;background-color: #d8d6cf;opacity: 0.8;margin: auto;}
+.top_main{width: 1200px;height: 60px;line-height: 60px;margin: auto;}
+.top_main a{font-size: 14px;color: #038dd8;font-weight: bolder;}
+.top_main ul{display: flex;justify-content: space-around;}
+/*第二部分*/
+#backsd{width: 1200px; height: 1000px; border: 1px solid lightgray;margin: auto;border-radius: 0 0 20px 20px;}
+.backsd_top{width: 1200px;height: 86px;/*border: 1px solid red;*/line-height: 86px;font-size: 12px;color: #7c7b7b;}
+.backsd_top ul{display: flex;justify-content: space-between;}
+.top_maina{width: 1200px;height: 800px;/*border: 1px solid red;*/}
+.main_one{width: 222px;height: 232px;/*border: 1px solid red;*/}
+.one_word{margin-top: -4px;font-size: 13px;color: #262626; width: 222px;height: 46px;background-color: #e5e5e5;text-align: center;line-height: 46px;}
+.top_maina ul{display: flex;justify-content: space-around;}
+/*下一页*/
+.next{width: 300px;height: 200px;margin: auto;/*border: 1px solid red;*/text-align: center;line-height: 100px;}
+.next button{width: 60px;height: 30px;background-color: white;border: 1px solid lightgray;}

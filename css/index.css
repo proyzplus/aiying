@@ -1,0 +1,53 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+ul li{list-style: none;}
+
+
+/*主要部分第一步*/
+#main_first{width: 100%;height: 622px;background-image: url(../images/main_02.png);background-size: 100% 100%; margin: auto;}
+.main_first_top{width: 100%;height: 60px;background-color: #d8d6cf;opacity: 0.8;margin: auto;}
+.top_main{width: 1200px;height: 60px;line-height: 60px;margin: auto;}
+.top_main a{font-size: 14px;color: #038dd8;font-weight: bolder;}
+.top_main ul{display: flex;justify-content: space-around;}
+/*主要部分第二部*/
+#main_second{width: 1200px;height: 380px;margin: auto;border: 1px solid white;}
+.main_main{width: 1200px;height: 303px;/*border: 1px solid red;*/margin-top: 32px;}
+.main_se_one{cursor: pointer; width: 250px;height: 298px;/*border: 1px solid blue;*/text-align: center;background-color: #bc45a7;}
+.main_main ul{display: flex;justify-content: space-around;}
+.img_word{width: 90px;height: 70px;/*border: 1px solid royalblue;*/margin: auto;}
+.img_word span{font-size: 14px;font-weight: bolder;color: #ffffff;}
+.word_img{width: 220px;height: 45px;margin: auto;/*border: 1px solid red;*/}
+.word_img span{font-size: 12px;color: #FFFFFF;}
+.word_botton{ width: 115px;height: 30px;/*border: 1px solid brown;*/margin: auto;margin-top: 20px;}
+.word_botton button{width: 115px;height: 30px;border-radius: 20px 20px 20px 20px;background-color: #dea2d3;border: 0px;color: #bc45a7;;}
+.main_se_onea{width: 250px;height: 298px;/*border: 1px solid blue;*/text-align: center;}
+.img_worda{width: 90px;height: 70px;/*border: 1px solid royalblue;*/margin: auto;}
+.img_worda span{font-size: 14px;font-weight: bolder;color: #009ae2;}
+.word_imga{width: 220px;height: 45px;margin: auto;/*border: 1px solid red;*/}
+.word_imga span{font-size: 12px;color: #666666;}
+.main_main ul li:hover{background-color: #bc45a7;cursor: pointer;}
+/*主要部分第三部分*/
+#main_third{width: 100%;height: 807px;margin: auto; background-image: url(../images/aby_16.png);background-size: 100% 100%;}
+.main_third_right{width: 1200px;height: 670px;/*border: 1px solid red;*/margin: auto;}
+.right{width: 600px;height: 670px;/*border: 1px solid  darkgoldenrod;*/float: right;}
+.right_top{width: 588px;height: 284px;background-image: url(../images/2015x_04.png);background-repeat: no-repeat;}
+.right_top_word{width: 290px;height: 284px;/*border: 1px solid aquamarine;*/}
+.right_top_word span{font-size: 17.54px;color: #FFFFFF;}
+.null{width: 588px;height: 220px;}
+.right_botton{width: 590px;height: 375px;/*border: 1px solid red;*/}
+.right_botton ul{display: flex;justify-content: space-around;}
+.third_one{width: 282px;height: 325px;/*border: 1px solid red;*/}
+.third_one_top{width: 282px;height: 32px;/*border: 1px solid red;*/line-height: 32px;}
+.spanone{font-weight: bolder; font-size: 16px;color: #008bd6;}
+.spantwo{font-weight: bold; font-size: 12px;color: #696969;}
+.third_one_bottona{width: 290px;height: 296px;background-image: url(../images/sadasdvbffb_12.png);background-repeat: no-repeat;}
+.bott_bt{width: 290px;height: 118px;background-color: #aaafb1;opacity: 0.4;}
+.oen{width: 258px;height: 68px;margin: auto;}
+.oen span{font-size: 12px;color: #FFFFFF;}
+.bott_bt span{font-size: 14px;color: white;font-weight: bold;margin-left: 20px;}
+/*主要部分第四部分*/
+#main_forth{width: 1200px;height: 378px;margin: auto;/*border: 1px solid red;*/}
+.main_forth_main{width: 1160px;height: 226px;margin: auto;border: 1px solid #e0e0e0;}
+.main_forth_main ul{display: flex;justify-content: space-between;}
+#aaa{margin-top: 40px;}
+.main_forth_main ul li:hover{cursor: pointer;}
